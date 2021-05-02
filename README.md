@@ -10,7 +10,7 @@ Hello people, here are all the resources that you will need for participating in
 
 ## Tasks 
 The following are the tasks that will be assigned to you.
-- **Implement a given UI design** using Flutter. The design will be shared via **Figma**. [Link to UI design(to be added)]().
+- **Implement a given UI design** using Flutter. The design will be shared via **Figma**. [Link to UI design](https://www.figma.com/file/yGF056eyva8XaogDWB00Ia/NaturWooden?node-id=0%3A1).
 - **Code review** : Read, review, analyse and correct some code.
 
 >**Note**: You are expected to make use of **git** during the sprint. Submission of your work has to be done through GIthub. Commit all the work that you do to **a private repository on GitHub** and give access to your mentor.
