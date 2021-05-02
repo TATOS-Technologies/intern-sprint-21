@@ -15,7 +15,6 @@ The following are the tasks that will be assigned to you.
 
 >**Note**: You are expected to make use of **git** during the sprint. Submission of your work has to be done through GIthub. Commit all the work that you do to **a private repository on GitHub** and give access to your mentor.
 
-<!-- https://www.figma.com/file/yGF056eyva8XaogDWB00Ia/NaturWooden?node-id=0%3A1 -->
 ## Links
 - [**Link**](https://drive.google.com/file/d/1j3B5hdRiNs9B-vw2Mp1l4U9E1fu1uTvZ/view) to recording of welcome session. Need access? **Post an issue** [here](https://github.com/TATOS-Technologies/intern-sprint-21/issues).
 - [**Link**](https://www.figma.com/file/yGF056eyva8XaogDWB00Ia/NaturWooden?node-id=0%3A1) to the UI design to implement.
