@@ -1,4 +1,4 @@
-# Internship Sprint 2022
+# Internship Sprint 2021
 Hello people, here are all the resources that you will need for participating in this development sprint. 
 
 ## Details of the sprint
